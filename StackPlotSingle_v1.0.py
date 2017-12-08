@@ -1,3 +1,15 @@
+# Author: Jeff Davids
+# Modified: 
+# Company: TU Delft
+# Date: 171208
+# Date Modified:
+# Purpose: Create single stacked area plot for land uses and other independent variable data
+# v1.0
+#
+# Instructions: modify file paths, colors, etc. and run
+#
+#   Import system modules
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

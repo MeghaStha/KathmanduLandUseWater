@@ -1,3 +1,15 @@
+# Author: Jeff Davids
+# Modified: 
+# Company: TU Delft
+# Date: 171208
+# Date Modified:
+# Purpose: Create 3x3 array of stacked area plots for land uses and other independent variable data
+# v1.3
+#
+# Instructions: modify file paths, colors, etc. and run
+#
+#   Import system modules
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
